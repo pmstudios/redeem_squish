@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/redeem_hoa/static/css/main.afcc04b8.chunk.css",
+    "main.js": "/redeem_hoa/static/js/main.314ef4ad.chunk.js",
+    "main.js.map": "/redeem_hoa/static/js/main.314ef4ad.chunk.js.map",
+    "runtime-main.js": "/redeem_hoa/static/js/runtime-main.4117af50.js",
+    "runtime-main.js.map": "/redeem_hoa/static/js/runtime-main.4117af50.js.map",
+    "static/js/2.6c6a24be.chunk.js": "/redeem_hoa/static/js/2.6c6a24be.chunk.js",
+    "static/js/2.6c6a24be.chunk.js.map": "/redeem_hoa/static/js/2.6c6a24be.chunk.js.map",
+    "index.html": "/redeem_hoa/index.html",
+    "precache-manifest.75042702d00c461aff0f86243ac2426e.js": "/redeem_hoa/precache-manifest.75042702d00c461aff0f86243ac2426e.js",
+    "service-worker.js": "/redeem_hoa/service-worker.js",
+    "static/css/main.afcc04b8.chunk.css.map": "/redeem_hoa/static/css/main.afcc04b8.chunk.css.map",
+    "static/js/2.6c6a24be.chunk.js.LICENSE.txt": "/redeem_hoa/static/js/2.6c6a24be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4117af50.js",
+    "static/js/2.6c6a24be.chunk.js",
+    "static/css/main.afcc04b8.chunk.css",
+    "static/js/main.314ef4ad.chunk.js"
+  ]
+}
